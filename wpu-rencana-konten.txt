@@ -4,5 +4,5 @@ rencana
   rencana 1b
 rencana 1bbb
  ini adalah 1
- ini adalah 2
+ ini adalah 5
   rencana 1c
